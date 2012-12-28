@@ -2,7 +2,7 @@
 class HomeController < ApplicationController
 
   def index
-    @title = ':: 기억 ::'
+    @title = 'ㄱ'
   end
   
 end
